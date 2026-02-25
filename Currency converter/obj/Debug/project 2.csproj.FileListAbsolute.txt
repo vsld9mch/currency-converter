@@ -1,0 +1,10 @@
+E:\код на жизнь\project 2\bin\Debug\project 2.exe.config
+E:\код на жизнь\project 2\bin\Debug\project 2.exe
+E:\код на жизнь\project 2\bin\Debug\project 2.pdb
+E:\код на жизнь\project 2\obj\Debug\project 2.csproj.AssemblyReference.cache
+E:\код на жизнь\project 2\obj\Debug\project_2.Form1.resources
+E:\код на жизнь\project 2\obj\Debug\project_2.Properties.Resources.resources
+E:\код на жизнь\project 2\obj\Debug\project 2.csproj.GenerateResource.cache
+E:\код на жизнь\project 2\obj\Debug\project 2.csproj.CoreCompileInputs.cache
+E:\код на жизнь\project 2\obj\Debug\project 2.exe
+E:\код на жизнь\project 2\obj\Debug\project 2.pdb
